@@ -12,7 +12,7 @@ resources:
   repositories:
     - repository: alm1
       type: git
-      name: ACRRepro/ACRRepro
+      name: ACRRepro/test
   
     - repository: alm2
       type: git
