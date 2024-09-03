@@ -12,12 +12,11 @@ resources:
   repositories:
     - repository: alm1
       type: git
-      name: ACRRepro/test
+      name: ACRRepro/ACRRepro
   
     - repository: alm2
       type: git
       name: ACRRepro/ACRRepro
-
 
 
 pool:
